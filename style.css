@@ -1,0 +1,20 @@
+.body_reg{
+   
+    display: flex;
+   justify-content: center;
+}
+.reg_box{
+   border: 1px solid rgb(20, 198, 243);
+   width: 200px;
+   background-color: rgb(241, 25, 177);
+   border-radius: 15px;
+   box-shadow: 4px 4px 5px 0px;
+}
+.form_reg{
+   margin-top: 5px;
+   padding-left: 15px;
+}
+.reg_button{
+   margin-bottom: 5px;
+   margin-left: 40px;
+}
